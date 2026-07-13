@@ -9,7 +9,7 @@ A Power BI dashboard built using SQL and bank loan data to analyze loan performa
 - Power BI
 - CSV Dataset
 
-## 📊 Dashboard Features
+## Dashboard Features
 - Total Loan Applications
 - Total Funded Amount
 - Total Amount Received
